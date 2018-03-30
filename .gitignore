@@ -1,0 +1,14 @@
+.vs/*
+
+Breakout/Debug/*
+Breakout/Release/*
+Breakout/x64/*
+
+*.opendb
+*.vcxproj.user
+*.lastcodeanalysissucceeded
+*.cap
+*.sdf
+*.pdb
+*.ilk
+*.exe

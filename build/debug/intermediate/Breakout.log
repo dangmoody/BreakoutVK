@@ -1,0 +1,15 @@
+﻿  BB.cpp
+  Entity.cpp
+  Game.cpp
+  Renderer.cpp
+  UI.cpp
+  Buffer.cpp
+  RenderState.cpp
+  Shader.cpp
+  StagingManager.cpp
+  Texture.cpp
+  UniformLayout.cpp
+  VulkanContext.cpp
+  VulkanContext_init.cpp
+  Generating Code...
+  Breakout.vcxproj -> D:\dev\Breakout\build\Debug\Breakout.exe
