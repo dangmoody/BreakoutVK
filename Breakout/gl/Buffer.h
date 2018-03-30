@@ -17,10 +17,6 @@ struct bufferDesc_t {
 
 	Yeti Buffer
 
-	Used to hold information being sent to/from the GPU. Knows the pointer to the raw data it
-	holds as well as the mapped data. Also knows its alignment as well as optional CPU memory
-	properties.
-
 	All Buffers that are host visible get persistently mapped/unmapped automatically so there
 	is no need to call Map()/Unmap().
 
