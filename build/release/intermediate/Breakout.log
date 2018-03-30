@@ -1,13 +1,7 @@
-﻿  BB.cpp
-  Entity.cpp
+﻿  Entity.cpp
   Game.cpp
-  InputHandler.cpp
-  Main.cpp
   Renderer.cpp
-  ScoresManager.cpp
-  SoundSystem.cpp
   UI.cpp
-  Window.cpp
   Buffer.cpp
   RenderState.cpp
   Shader.cpp
@@ -16,13 +10,9 @@
   UniformLayout.cpp
   VulkanContext.cpp
   VulkanContext_init.cpp
-  gl_vma.cpp
-  imgui.cpp
-  Compiling...
-  imgui_draw.cpp
   Generating code
-  540 of 1706 functions (31.7%) were compiled, the rest were copied from previous compilation.
-    176 functions were new in current compilation
-    10 functions had inline decision re-evaluated but remain unchanged
+  5 of 1706 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   Breakout.vcxproj -> D:\dev\Breakout\build\Release\Breakout.exe

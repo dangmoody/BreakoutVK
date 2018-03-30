@@ -35,7 +35,9 @@ Texture::~Texture
 ========================
 */
 Texture::~Texture() {
-	UnallocTexture();
+	if ( IsAlloced() ) {
+		error( "Texture was never un-allocated! Please call UnallocTexture() somewhere to do this!\n" );
+	}
 }
 
 /*
