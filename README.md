@@ -9,6 +9,12 @@ The game only runs on 64-bit windows machines.
 If you have any feedback/criticism of the code then please let me know at: daniel.guy.moody@gmail.com. I want to learn from my mistakes.
 
 
+Bugs:
+=====
++ Sometimes audio will be loud at random times.
++ Ball may bounce through paddle/blocks if going fast enough (probably a rare thing through, would have to be going really fast for this to happen).
+
+
 Project goals:
 ==============
 + Make a game, no matter how simple, that uses a custom vulkan engine/renderer that I wrote (just make something!).
